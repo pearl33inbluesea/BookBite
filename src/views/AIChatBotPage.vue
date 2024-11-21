@@ -27,7 +27,7 @@
                                 <div>
                                     <p class="small p-2 mb-1 rounded-3"
                                         :class="chat.isUser ? 'user-message' : 'bot-message ms-3'">
-                                        {{ chat.message }}
+                                        <span v-html="chat.message"></span>
                                     </p>
                                 </div>
 
