@@ -5,8 +5,9 @@
             <div class="image-container">
                 <div class="title-container">
                     <h1 class="main-title">도서 신청</h1>
-                    <p class="subtitle">읽고 싶은 책이나 좋아하는 책을 신청해보세요. 
-                        <br>책의 감동을 더 많은 사람과 나눌 수 있어요.</p>
+                    <p class="subtitle">읽고 싶은 책이나 좋아하는 책을 신청해보세요.
+                        <br>책의 감동을 더 많은 사람과 나눌 수 있어요.
+                    </p>
                 </div>
                 <div class="image-wrapper">
                     <img src="@/assets/bookimage.png" alt="Book Background" class="background-image" />

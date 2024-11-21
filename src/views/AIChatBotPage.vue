@@ -179,7 +179,6 @@ body {
 }
 
 .ai-chatbot-title {
-  color: #4a4a4a;
+    color: #4a4a4a;
 }
-
 </style>
